@@ -40,12 +40,6 @@ The [`puppeteer`](puppeteer) directory contains an example of how to use the [Pu
 
 In order to try out these examples, clone this repository, enter the directory, and install the dependencies:
 
-``` bash
-git clone https://github.com/mathjax/mathjsx-node.git mathjsx-node
-cd mathjsx-node
-npm install
-```
-
 The examples should be executable files that you can run.  On non-unix systems, you may need to call
 
 ``` bash
