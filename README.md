@@ -1,4 +1,4 @@
-# [MathJax-demos-node](https://github.com/mathjax/MathJax-demos-node)
+# [mathjsx-node]
 <img class="shield" alt="GitHub release version" src="https://img.shields.io/github/v/release/mathjax/MathJax-src.svg?sort=semver">
 
 A repository with examples using [MathJax version 3](https://github.com/mathjax/MathJax-src) in node applications.
@@ -42,8 +42,8 @@ The [`puppeteer`](puppeteer) directory contains an example of how to use the [Pu
 In order to try out these examples, clone this repository, enter the directory, and install the dependencies:
 
 ``` bash
-git clone https://github.com/mathjax/MathJax-demos-node.git MathJax-demos-node
-cd MathJax-demos-node
+git clone https://github.com/mathjax/mathjsx-node.git mathjsx-node
+cd mathjsx-node
 npm install
 ```
 
